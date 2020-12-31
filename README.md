@@ -20,21 +20,3 @@
 - Tech used: Node.js, Express.js, Metar API and Python
 
 * * *
-
-
-# Shinobu Bot
-
-- [GitHub Repo](https://github.com/TooFiveFive/ShinobuBot)
-
-- A Golang based Discord Bot that updates people on the latest anime shows as well as supporting a profiling feature that allows users to display their favourite shows to everyone with one command.
-
-* * *
-
-
-# Smart Alarm Clock Plus (in development)
-
-- [GitHub Repo](https://github.com/TooFiveFive/Smart-Alarm-Clock-Plus)
-
-- This is A project concept based on turning a raspberry pi zero into a voice controlled alarm clock.
-
-# 
