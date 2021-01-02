@@ -1,6 +1,4 @@
-# RSS Feed Reader Plus (in development)
-
-- [GitHub Repo](https://github.com/TooFiveFive/RSS-Feed-Reader-Plus)
+# [RSS Feed Reader Plus](https://github.com/ericm/RSS-Feed-Reader-Plus)
 
 - This is an Open Source Advanced Multi-Platform Desktop RSS Feed Reader I started with support for: Rules and Cloud Sync. It's purpose is to give the user as many options as possible built into a modern desktop feed reader.
 
@@ -11,9 +9,7 @@
 * * *
 
 
-# metar-pro
-
-- [GitHub Repo](https://github.com/TooFiveFive/metar-pro)
+# [metar-pro](https://github.com/ericm/metar-pro)
 
 - A Web App designed to predict what runway a plane will land on using current data. The landing direction is then illustrated using the Google Maps Api. 
 
