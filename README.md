@@ -1,3 +1,37 @@
+# [Stonks](https://github.com/ericm/stonks)
+
+- Stonks is a terminal based stock visualizer and tracker.
+
+- It uses Yahoo Finance as a backend so use the ticker format as seen on their website.
+
+## `$ stonks AMD`
+![](https://raw.githubusercontent.com/ericm/stonks/master/assets/2.png)
+
+```
+Displays realtime stocks in graph format in a terminal
+
+Usage:
+  stonks [flags]
+
+Flags:
+  -d, --days int          24 hour period of stocks from X of days ago.
+  -e, --extra             Include extra pre + post time. (Only works for day)
+  -h, --help              help for stonks
+  -i, --interval string   stonks -i X[m|h] (eg 15m, 5m, 1h, 1d) (default "15m")
+  -n, --name string       Optional name for a stonk save
+  -r, --remove string     Remove an item from favourites
+  -s, --save string       Add an item to the default stonks command. (Eg: -s AMD -n "Advanced Micro Devices")
+  -t, --theme string      Display theme for the chart (Options: "line", "dot", "icon")
+  -v, --version           stonks version
+  -w, --week              Display the last week (will set interval to 1d)
+  -y, --year              Display the last year (will set interval to 5d)
+      --ytd               Display the year to date (will set interval to 5d)
+```
+
+![](https://raw.githubusercontent.com/ericm/stonks/master/assets/stonks.svg)
+
+* * *
+
 # [Yup](https://github.com/ericm/yup)
 
 [![AUR version](https://img.shields.io/aur/version/yup.svg?style=for-the-badge)](https://aur.archlinux.org/packages/yup/)
@@ -92,5 +126,3 @@ The extension will post to GitHub every X amount of minutes.
 - A Web App designed to predict what runway a plane will land on using current data. The landing direction is then illustrated using the Google Maps Api. 
 
 - Tech used: Node.js, Express.js, Metar API and Python
-
-* * *
