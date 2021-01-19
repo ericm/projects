@@ -11,6 +11,14 @@
 
 * * *
 
+# [Docker HealScript](https://github.com/ericm/healscript)
+
+- This is a Docker image that runs a user-defined script whenever a specific container becomes unhealthy.
+
+- It maps to scripts in the `/scripts` directory and if an image _X_ is found to be unhealthy, it will run `/scripts/X.sh`
+
+* * *
+
 # [Visual Studio Code GitHub Status Presence](https://github.com/ericm/vscode-github-status)
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ericm.github-status-presence?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=ericm.github-status-presence)
@@ -21,6 +29,17 @@
 ![Working on you (1 minute)](https://github.com/ericm/vscode-github-status/blob/master/assets/1.png?raw=true)
 
 The extension will post to GitHub every X amount of minutes.
+
+* * *
+
+# [Uniui](https://github.com/ericm/uniui)
+
+- Uniui is a React Typescript UI library.
+
+- Components include buttons, radios, selection etc.
+
+![Uniui](https://raw.githubusercontent.com/ericm/uniui/master/img/uniui.svg)
+![](https://raw.githubusercontent.com/ericm/uniui/master/img/button.png)
 
 * * *
 
