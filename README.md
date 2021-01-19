@@ -1,3 +1,14 @@
+# [Yup](https://github.com/ericm/yup)
+
+- Yup helps you install packages with ease on Arch Linux, from both pacman and the AUR
+
+- It uses ncurses to display search results. This allows for mouse interaction in the terminal and easier navigation.
+
+![Yup](https://raw.githubusercontent.com/ericm/yup/master/assets/logo.svg)
+![Screenshot](https://raw.githubusercontent.com/ericm/yup/master/assets/scr1.png)
+
+* * *
+
 # [React Globules](https://github.com/ericm/react-globules)
 
 - React JS component that gives your project a cool interactive background with simulated bubble physics.
