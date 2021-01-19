@@ -1,11 +1,26 @@
 # [Yup](https://github.com/ericm/yup)
 
+[![AUR version](https://img.shields.io/aur/version/yup.svg?style=for-the-badge)](https://aur.archlinux.org/packages/yup/)
+
 - Yup helps you install packages with ease on Arch Linux, from both pacman and the AUR
 
 - It uses ncurses to display search results. This allows for mouse interaction in the terminal and easier navigation.
 
 ![Yup](https://raw.githubusercontent.com/ericm/yup/master/assets/logo.svg)
 ![Screenshot](https://raw.githubusercontent.com/ericm/yup/master/assets/scr1.png)
+
+* * *
+
+# [Visual Studio Code GitHub Status Presence](https://github.com/ericm/vscode-github-status)
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ericm.github-status-presence?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=ericm.github-status-presence)
+- An extension that will sync your current workspace name and time spent on it to your GitHub status.
+
+- The extension will read your current workspace as well as how long it's been open and sync it your GitHub profile like so:
+
+![Working on you (1 minute)](https://github.com/ericm/vscode-github-status/blob/master/assets/1.png?raw=true)
+
+The extension will post to GitHub every X amount of minutes.
 
 * * *
 
