@@ -1,3 +1,11 @@
+# [React Globules](https://github.com/ericm/react-globules)
+
+- React JS component that gives your project a cool interactive background with simulated bubble physics.
+
+![Globules](https://raw.githubusercontent.com/ericm/react-globules/master/scr.png)
+
+* * *
+
 # [Py The Way](https://github.com/py-the-way/py-the-way)
 
 - This project is a recommendation system that recommends where a user should live in the US using big data, python and pandas.
